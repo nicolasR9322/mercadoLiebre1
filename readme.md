@@ -14,4 +14,4 @@ descripción: Creacion de la vista Home para dispositivos móviles e instalacion
 
         desafio 1: crear estructuras de carpetas, configuracion de Node Js Express
 
-        desafio 2: creacion de home.html, con las secciones header, main y footer con sus respectivos contenidos
+        desafio 2: creacion de home.html, con las secciones header, main y footer con sus respectivos contenidos.
